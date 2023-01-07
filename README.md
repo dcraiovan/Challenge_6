@@ -1,4 +1,4 @@
-# Challenge_6
+# WeatherPy - Python APIs
 
 For this challenge, you will use the weather description data you've already retrieved in this module to enhance the PlanMyTrip app. 
 Then, you'll have the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations 
